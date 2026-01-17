@@ -1,6 +1,7 @@
 
 | Name | Github-ID | College name | Roll no. | Issue no. |
 |:-----|--------:|---------|-------:|------:|
+| Vibhu Tomer | vibhutomer | NITA | 20243317 | 1 |
 | Jatin | thenix09 | IIITA | IIT2025101 | 1 |
 | Anurag| Anurag-Bansode| IIITT | 242101|1|  
 | Harshvardhan | HARSH4885-svg | IIITA | IIT2025177 | 1 |
@@ -42,6 +43,7 @@
 | Devanshu Chotiya | devanshuwebd | IIT Dhanbad | 24je0396 | 1 |
 | Dharshini D | Dharshin1|CIT|24CS0202|1|
 | Savan Modha | CoderMS07 | LDCE | 6070 | 1 | 
+| Aakriti Singh| AakritiSingh05 | BV | BTBTC24128 |1|
 
 <!-- ADD ABOVE THIS-->
 <!--example |P.Diddy | KoveLids |Reyansh College| IIT2024069| 0|>
